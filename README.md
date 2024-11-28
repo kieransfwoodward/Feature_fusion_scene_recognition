@@ -1,3 +1,6 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 # Feature_fusion_scene_recognition
 
 This repository contains a Python notebook implementing a feature fusion multi-model approach for scene recognition. The project leverages deep learning models to combine features from different modalities to improve scene classification accuracy.
